@@ -18,9 +18,7 @@ FEATURES:
 USAGE:
 1. Install Python 3.x
 2. Install required packages:
-   pip install -r requirements.txt
-3. Run the tool:
-   python Vanish.py
+pip install -r requirements.txt
 
 PRODUCT KEY:
 Use the following when prompted:
